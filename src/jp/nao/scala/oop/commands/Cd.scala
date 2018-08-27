@@ -1,7 +1,6 @@
 package jp.nao.scala.oop.commands
 import jp.nao.scala.oop.files.{DirEntry, Directory}
 import jp.nao.scala.oop.filesystem.State
-import sun.net.ftp.FtpDirEntry
 
 import scala.annotation.tailrec
 
